@@ -1,6 +1,6 @@
 const DOMAINS = {
-  server: "http://204.236.252.122:4000/", // CHANGE WITH YOUR BACKEND LINK (/ is MUST IN END)
-  client: "http://204.236.252.122:4000/", // CHANGE WITH YOUR FRONTEND LINK (/ is MUST IN END)
+  server: "http://13.127.6.177:4000/", // CHANGE WITH YOUR BACKEND LINK (/ is MUST IN END)
+  client: "http://13.127.6.177:4000/", // CHANGE WITH YOUR FRONTEND LINK (/ is MUST IN END)
 };
 
 export const CONSTANT = {
